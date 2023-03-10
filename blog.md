@@ -45,4 +45,7 @@ byType 和自己对象属性类型相同的bean
 2. service @Service
 3. controller @Controller
 
-
+# day3
+代理模式
+1. 静态代理：抽象角色，真实角色，代理角色，客户
+3. 动态代理
