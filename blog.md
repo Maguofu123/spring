@@ -61,3 +61,13 @@ AOP:
 
 # day5
 spring-mybatis
+
+# day6
+整合mybatis
+流程：
+1. 写实体类
+2. 写接口Mapper
+3. 写实现类
+4. 配置xml文件
+5. 注入Bean
+6. 测试
